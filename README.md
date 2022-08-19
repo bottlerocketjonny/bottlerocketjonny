@@ -1,7 +1,5 @@
 👋 | Hey everyone!
 
-🤝 | Nice to meet you :) 
-
 👨‍💻 | I'm Jonny, a Software Engineer based in London, UK. 
 
 🚀 | Get in touch with me via my email: bottlerocketjonny@protonmail.com 
