@@ -16,7 +16,7 @@
 
 ⚡ | My tech-stack includes Java, Python, SQL, Ruby & much more!
 
-🚀 | Get in touch with me via my email: bottlerocketjonny@protonmail.com 
+🚀 | Get in touch with me via my email mailto:bottlerocketjonny@protonmail.com or through the links at the top.
 
 🌟 | Thanks for visiting, I look forward to working together!
 
