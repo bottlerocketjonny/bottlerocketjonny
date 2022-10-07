@@ -1,6 +1,20 @@
-👋 | Hey everyone!
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/jonny-coddington/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/jonny__dev">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
+<br><br>
+
+👋 | Hey everyone! Nice to meet you.
 
 👨‍💻 | I'm Jonny, a Software Engineer based in London, UK. 
+
+⚡ | My tech-stack includes Java, Python, SQL, Ruby & much more!
 
 🚀 | Get in touch with me via my email: bottlerocketjonny@protonmail.com 
 
