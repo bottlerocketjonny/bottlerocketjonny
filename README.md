@@ -12,7 +12,7 @@
 
 👋 | Hey everyone! Nice to meet you.
 
-👨‍💻 | I'm Jonny, a Software Engineer based in London, UK. 
+👨‍💻 | I'm Jonny, a Junior Developer based in London, UK. 
 
 ⚡ | My tech-stack includes Java, Python, SQL, Ruby & much more!
 
