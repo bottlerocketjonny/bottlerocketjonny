@@ -10,11 +10,7 @@
 
 <br>
 
-👋 | Hey everyone! Nice to meet you.
-
-👨‍💻 | I'm Jonny, a Junior Developer based in London, UK. 
-
-⚡ | My tech-stack includes Java, Python, SQL, Ruby & much more!
+👋 | Hey everyone!  I'm Jonny, a Junior Developer based in London, UK.
 
 🚀 | Get in touch with me via my email bottlerocketjonny@protonmail.com or through the links at the top.
 
