@@ -5,7 +5,6 @@
   <a href="https://twitter.com/jonny__dev">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
   <a href="https://bottlerocketjonny.github.io/#home">
     <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&&logoColor=white" alt="Website Badge"/>
   </a>
