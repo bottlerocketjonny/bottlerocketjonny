@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://bottlerocketjonny.github.io/#home">
-    <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&&logo=null&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
 
