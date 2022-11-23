@@ -17,9 +17,9 @@
 
 👋 | Hey everyone!  I'm Jonny, a Junior Developer based in London, UK.
 
-☕ | My tech stack is mostly Java based - Spring Boot, Maven, Gradle, Lombok, Mockito, Junit, JPA, JDBC, etc.
+☕ | My tech stack is Java based - Spring Boot, Maven, Gradle, Lombok, Mockito, Junit, JPA, JDBC, etc.
 
-💻 | I'm also familiar with Python, C and Ruby as well as frontend languages like HTML and CSS.
+💻 | I'm also familiar with Python, C and Ruby as well as frontend languages/frameworks like HTML, CSS, JavaScript and React.js.
 
 🚀 | Get in touch with me via my email bottlerocketjonny@protonmail.com or through the links at the top.
 
