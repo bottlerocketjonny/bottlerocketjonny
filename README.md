@@ -12,9 +12,9 @@
 
 <br>
 
-👋 | Hey everyone!  I'm Jonny, a Junior Developer based in London, UK.
+👋 | Hey everyone!  I'm Jonny, a Junior Java Developer based in London, UK.
 
-☕ | I specialise in all things Java & Spring!
+☕ | I'm looking to contribute to Open Source projects using Java & Spring! 
 
 💻 | I also have experience with Python, C, Ruby, HTML, CSS, JavaScript and React.js.
 
