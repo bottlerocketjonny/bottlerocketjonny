@@ -6,23 +6,18 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a><br>
 </div>
-
-
-
-
 <br>
 
-👋 | Hey everyone!  I'm Jonny, a Junior Java Developer based in London, UK.
+```
+private static final String TECH_STACK = "Java, Spring, MySQL, TypeScript & React";
+```
 
-☕ | I'm looking to contribute to Open Source projects using Java & Spring! 
+👋 | Hey everyone! I'm Jonny, a Full Stack Developer based in London, UK.
 
-💻 | I also have experience with Python, C, Ruby, HTML, CSS, JavaScript and React.js.
+🧑‍💻 | Currently, I'm working at <a href="https://www.japeto.ai/">Japeto</a>, an Innovate UK funded start-up. We are building a Chatbot framework that will be used by charities and the NHS.
+
+☕ | In my spare time, I'm looking to contribute to Open Source projects using Java & Spring! 
 
 🚀 | Get in touch with me via my email bottlerocketjonny@protonmail.com or through the links at the top.
 
 🌟 | Thanks for visiting, I look forward to working together!
-
-<!---
-bottlerocketjonny/bottlerocketjonny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
