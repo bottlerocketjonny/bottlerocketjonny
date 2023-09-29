@@ -18,6 +18,6 @@ private static final String TECH_STACK = "Java, Spring, MySQL, TypeScript & Reac
 
 ☕ | In my spare time, I'm looking to contribute to Open Source projects using Java & Spring! 
 
-🚀 | Get in touch with me via my email bottlerocketjonny@protonmail.com or through the links at the top.
+🚀 | Get in touch with me via my email jj.coddington93@gmail.com or through the links at the top.
 
 🌟 | Thanks for visiting, I look forward to working together!
