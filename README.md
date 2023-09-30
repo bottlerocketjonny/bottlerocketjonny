@@ -8,14 +8,14 @@
 </div>
 <br>
 
-`private String techStack = "Java, Spring Boot, MySQL, TypeScript, React...";`
-
 👋 | Hey everyone! I'm Jonny, a Full Stack Developer based in London, UK.
+
+🥞 | Java, Spring Boot, TypeScript, React.
 
 🧑‍💻 | Currently, I'm working at <a href="https://www.japeto.ai/">Japeto</a>, an Innovate UK funded start-up. We are building a Chatbot framework that will be used by charities and the NHS.
 
-☕ | In my spare time, I'm looking to contribute to Open Source projects using Java/Spring Boot. 
+☕ | In my spare time, I'm looking to contribute to Open Source projects based around my tech stack. 
 
 🚀 | Get in touch with me via my email bottlerocketjonny@protonmail.com or through the links at the top.
 
-🌟 | Thanks for visiting, I look forward to working together!
+🌟 | Thanks for visiting. Bye for now!
