@@ -8,7 +8,7 @@
 </div>
 <br>
 
-`private String techStack = "Java, Spring Boot, MySQL, TypeScript, React...";`
+<p align="center">`private String techStack = "Java, Spring Boot, MySQL, TypeScript, React...";`</p>
 
 👋 | Hey everyone! I'm Jonny, a Full Stack Developer based in London, UK.
 
