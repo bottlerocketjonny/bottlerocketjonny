@@ -10,11 +10,11 @@
 
 👋 | Hey everyone! I'm Jonny, a Full Stack Developer based in London, UK.
 
-🥞 | Java, Spring Boot, TypeScript, React.
+🥞 | Java, Spring Boot, TypeScript, React and the surrounding ecosystems. 
 
 🧑‍💻 | Currently, I'm working at <a href="https://www.japeto.ai/">Japeto</a>, an Innovate UK funded start-up. We are building a Chatbot framework that will be used by charities and the NHS.
 
-☕ | In my spare time, I'm looking to contribute to Open Source projects based around my tech stack. 
+☕ | In my spare time, I'm looking to contribute to some Open Source projects!
 
 🚀 | Get in touch with me via my email bottlerocketjonny@protonmail.com or through the links at the top.
 
