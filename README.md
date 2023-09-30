@@ -10,9 +10,9 @@
 
 👋 | Hey everyone! I'm Jonny, a Full Stack Developer based in London, UK.
 
-🥞 | Java, Spring Boot, TypeScript, React and the surrounding ecosystems. 
+🥞 | My tech stack = Java, Spring Boot, TypeScript, React & more!
 
-🧑‍💻 | Currently, I'm working at <a href="https://www.japeto.ai/">Japeto</a>, an Innovate UK funded start-up. We are building a Chatbot framework that will be used by charities and the NHS.
+🧑‍💻 | Currently, I'm working at <a href="https://www.japeto.ai/">Japeto</a>, an Innovate UK funded start-up. Japeto is a Chatbot framework used by charities and the NHS.
 
 ☕ | In my spare time, I'm looking to contribute to some Open Source projects!
 
