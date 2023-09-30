@@ -8,11 +8,7 @@
 </div>
 <br>
 
-```
-StringBuilder techStack = new StringBuilder();
-techStack.append("Java, Spring Boot, MySQL, TypeScript, React");
-techStack.append("...");
-```
+`private String techStack = "Java, Spring Boot, MySQL, TypeScript, React...";`
 
 👋 | Hey everyone! I'm Jonny, a Full Stack Developer based in London, UK.
 
