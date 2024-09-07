@@ -8,11 +8,9 @@
 </div>
 <br>
 
-👋 | Hey everyone! I'm Jonny, a Full Stack Developer based in London, UK.
+👋 | Hey everyone! I'm Jonny, a Full Stack Developer based in Sheffield, UK.
 
-🥞 | My tech stack = Java, Spring Boot, TypeScript, React & more!
-
-🧑‍💻 | Currently, I'm working at <a href="https://www.japeto.ai/">Japeto</a>, an Innovate UK funded start-up. Japeto is a Chatbot framework used by charities and the NHS.
+🧑‍💻 | Currently, I'm working on some cool stuff at <a href="https://www.japeto.ai/">Japeto</a>.
 
 ☕ | In my spare time, I'm looking to contribute to some Open Source projects!
 
